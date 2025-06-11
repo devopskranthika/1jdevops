@@ -1,7 +1,7 @@
 Basics          :  Git , Linux , Networking , Programming and DB
-Automation &iac :  Shell Scripting, Ansible , Hashcorp Vault, Terraform
+Automation &iac :  Shell Scripting, python script, Ansible(Automation & iac) , Hashcorp Vault, Terraform(iac)
 Containerization:  Docker, Kuberenetes, Helm Charts
 CICD            :  Github Actions, ArgoCD, Jenkins [JFROG Artifactory & Docker images (Off session Videos)] 
 Monitoring      :  Prometheus, Grafana,ELK, NewRelic
 Security        :  CheckMarx Sast & SCA, mTLS, (CIS & CVE, Web Firewall=Trivy), istio, sonarqube
-Others          : AWS, Project, Python
+Others          : AWS, Project
